@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user after crate task, able to see on list of my task screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ca57f0b-2dbc-4d5f-b9f8-d7249ccd748b</testCaseGuid>
+</TestCaseEntity>

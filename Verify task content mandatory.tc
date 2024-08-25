@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify task content mandatory</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>00d8bf24-1ffb-4d1f-b91b-dc875ca89574</testCaseGuid>
-</TestCaseEntity>

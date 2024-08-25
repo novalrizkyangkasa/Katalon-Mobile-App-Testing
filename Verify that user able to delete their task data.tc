@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify that user able to delete their task data</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>11fc8f7b-46b5-4869-8453-c1345e53bcdb</testCaseGuid>
-</TestCaseEntity>

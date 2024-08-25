@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify for Cancel CTA on Delete pop up screen</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>733dbfa3-84fe-4c11-891e-c8dfc7648cb0</testCaseGuid>
-</TestCaseEntity>

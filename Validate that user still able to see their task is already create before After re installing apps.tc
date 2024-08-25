@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Validate that user still able to see their task is already create before After re installing apps</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>7253b0d9-4729-46ee-b355-b208146cb288</testCaseGuid>
-</TestCaseEntity>

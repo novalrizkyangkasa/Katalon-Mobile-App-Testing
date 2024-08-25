@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify that user able to see detail element on homepage section screen</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a00db149-c979-4086-b7e3-9c704a7ca302</testCaseGuid>
-</TestCaseEntity>

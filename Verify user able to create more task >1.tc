@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify user able to create more task >1</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4b7fe377-6463-40f1-af0e-8980a669ef9f</testCaseGuid>
-</TestCaseEntity>
